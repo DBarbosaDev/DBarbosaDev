@@ -15,7 +15,7 @@ while (alive) {
 <table>
   <thead>
     <tr>
-      <th><h4>My social medias</h4></th>
+      <th><h4>My Dev Stack</h4></th>
       <th><h4>My social medias</h4></th>
     </tr>
   </thead>
