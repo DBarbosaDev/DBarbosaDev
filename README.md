@@ -23,7 +23,9 @@ while (alive) {
     <tr>
       <td>
         <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" width="30"/> &nbsp; &nbsp;
-          <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width="30"/>  &nbsp; &nbsp; <img src="https://img.icons8.com/color/452/mongodb.png" width="30"/> &nbsp; &nbsp; <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="30"/>
+        <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width="30"/>  &nbsp; &nbsp;
+        <img src="https://img.icons8.com/color/452/mongodb.png" width="30"/> &nbsp; &nbsp;
+        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="30"/>
       </td>
       <td>
         <a href="https://www.linkedin.com/in/dbarbosadev/"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30"/></a>
