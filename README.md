@@ -1,12 +1,14 @@
 # Hi, my name is Diogo Barbosa and:
 
-I don't have a specific tech stack, I just use my programming skills to solve problems by developing robust solutions with the technology that best fits to the problem
+I don't have a specific tech stack, I just use my programming skills to solve problems by developing robust solutions with the technology that best fits to the problem.
+<br/>
+# My Motto is:
 
 ## **Every day:**
 
-**<ins>Dream,</ins>** **<ins>Think,</ins>** **<ins>Learn,</ins>** **<ins>Grow,</ins>** **<ins>Fight,</ins>** **<ins>Chase your goals,</ins>** **<ins>Execute,</ins>**
+**<ins>Dream,</ins>** **<ins>Think,</ins>** **<ins>Learn,</ins>** **<ins>Grow,</ins>** **<ins>Fight,</ins>** **<ins>Chase and Execute your goals,</ins>**
 
-**because....**
+**because...**
 
 ## **Stopping is dying**
 
