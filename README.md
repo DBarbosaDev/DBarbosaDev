@@ -1,46 +1,18 @@
-### Hi, my name is Diogo Barbosa and:
-<h4>🔭 I’m currently working on myself!</h4></th>
+# Hi, my name is Diogo Barbosa and:
 
-```javascript
-while (alive) {
-    if (!knowHow) {
-       research();
-    }
-    code();
-    grow();
-}
-```
+I don't have a specific tech stack, I just use my programming skills to solve problems by developing robust solutions with the technology that best fits to the problem
 
+## **Every day:**
 
-<table>
-  <thead>
-    <tr>
-      <th><h4>My Dev Stack</h4></th>
-      <th><h4>My social medias</h4></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" width="30"/> &nbsp; &nbsp;
-        <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width="30"/>  &nbsp; &nbsp;
-        <img src="https://img.icons8.com/color/452/mongodb.png" width="30"/> &nbsp; &nbsp;
-        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="30"/>
-      </td>
-      <td>
-        <a href="https://www.linkedin.com/in/dbarbosadev/"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30"/></a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+**<ins>Dream,</ins>** **<ins>Think,</ins>** **<ins>Learn,</ins>** **<ins>Grow,</ins>** **<ins>Fight,</ins>** **<ins>Chase your goals,</ins>** **<ins>Execute,</ins>**
 
+**because....**
 
+## **Stopping is dying**
 
+* * *
 
-
-
-
-
+[LinkedIn](https://www.linkedin.com/in/dbarbosadev/)
 
 
 <!--
