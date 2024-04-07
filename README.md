@@ -4,7 +4,7 @@ I don't have a specific tech stack, I just use my programming skills to solve pr
 <br/>
 # My Motto is:
 
-## **Every day:**
+## **Every day**
 
 **<ins>Dream,</ins>** **<ins>Think,</ins>** **<ins>Learn,</ins>** **<ins>Grow,</ins>** **<ins>Fight,</ins>** **<ins>Chase and Execute your goals,</ins>**
 
