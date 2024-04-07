@@ -1,4 +1,4 @@
-# Hi, my name is Diogo Barbosa and:
+# Hi, my name is Diogo Barbosa and...
 
 I don't have a specific tech stack, I just use my programming skills to solve problems by developing robust solutions with the technology that best fits to the problem.
 <br/>
